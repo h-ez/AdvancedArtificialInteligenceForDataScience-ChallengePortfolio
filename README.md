@@ -81,5 +81,5 @@ La segunda sección combina las imágenes predichas y las convierte en un video.
 
 ## **Investigación**
 
-El paper es el archivo llamado [Equipo1.pdf]
+Se escribio un paper detallando este proyecto y sus resultados. Este archivo corresponde a [test document](Equipo1.pdf)
 
