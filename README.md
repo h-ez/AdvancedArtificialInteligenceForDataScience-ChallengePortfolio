@@ -81,5 +81,5 @@ La segunda sección combina las imágenes predichas y las convierte en un video.
 
 ## **Investigación**
 
-Si desea saber más acerca de cómo fue realizado el modelo, puede leer nuestra investigación que se encuentra en la carpeta del reto.
+El paper es el archivo llamado [Equipo1.pdf]
 
